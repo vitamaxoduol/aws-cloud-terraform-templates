@@ -1,0 +1,2 @@
+# AWS Templates using Terraform
+Using AWS cloudformation as a service enable creation of resources using IaC. In this repository I have learnt to create, build and deploy Instances, IAM Roles, Auto-Scaling Groups, S3 buckets, VPCs, more using terraform tempolates as much I have the user credentials.
